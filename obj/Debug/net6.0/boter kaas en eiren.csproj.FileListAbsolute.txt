@@ -1,0 +1,15 @@
+E:\c# oefening\boter kaas en eiren\boter kaas en eiren\obj\Debug\net6.0\boter kaas en eiren.csproj.AssemblyReference.cache
+E:\c# oefening\boter kaas en eiren\boter kaas en eiren\obj\Debug\net6.0\boter kaas en eiren.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# oefening\boter kaas en eiren\boter kaas en eiren\obj\Debug\net6.0\boter kaas en eiren.AssemblyInfoInputs.cache
+E:\c# oefening\boter kaas en eiren\boter kaas en eiren\obj\Debug\net6.0\boter kaas en eiren.AssemblyInfo.cs
+E:\c# oefening\boter kaas en eiren\boter kaas en eiren\obj\Debug\net6.0\boter kaas en eiren.csproj.CoreCompileInputs.cache
+E:\c# oefening\boter kaas en eiren\boter kaas en eiren\bin\Debug\net6.0\boter kaas en eiren.exe
+E:\c# oefening\boter kaas en eiren\boter kaas en eiren\bin\Debug\net6.0\boter kaas en eiren.deps.json
+E:\c# oefening\boter kaas en eiren\boter kaas en eiren\bin\Debug\net6.0\boter kaas en eiren.runtimeconfig.json
+E:\c# oefening\boter kaas en eiren\boter kaas en eiren\bin\Debug\net6.0\boter kaas en eiren.dll
+E:\c# oefening\boter kaas en eiren\boter kaas en eiren\bin\Debug\net6.0\boter kaas en eiren.pdb
+E:\c# oefening\boter kaas en eiren\boter kaas en eiren\obj\Debug\net6.0\boter kaas en eiren.dll
+E:\c# oefening\boter kaas en eiren\boter kaas en eiren\obj\Debug\net6.0\refint\boter kaas en eiren.dll
+E:\c# oefening\boter kaas en eiren\boter kaas en eiren\obj\Debug\net6.0\boter kaas en eiren.pdb
+E:\c# oefening\boter kaas en eiren\boter kaas en eiren\obj\Debug\net6.0\boter kaas en eiren.genruntimeconfig.cache
+E:\c# oefening\boter kaas en eiren\boter kaas en eiren\obj\Debug\net6.0\ref\boter kaas en eiren.dll

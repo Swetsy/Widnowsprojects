@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "boter kaas en eiren/1.0.0": {
+        "runtime": {
+          "boter kaas en eiren.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "boter kaas en eiren/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
